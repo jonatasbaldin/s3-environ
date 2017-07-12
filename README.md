@@ -1,6 +1,6 @@
 # s3-environ
 [![CircleCI](https://circleci.com/gh/jonatasbaldin/s3-environ.svg?style=svg)](https://circleci.com/gh/jonatasbaldin/s3-environ)
-[![Coverage Status](https://coveralls.io/repos/github/jonatasbaldin/s3-environ/badge.svg)](https://coveralls.io/github/jonatasbaldin/s3-environ)
+[![Coverage Status](https://coveralls.io/repos/github/jonatasbaldin/s3-environ/badge.svg?branch=master)](https://coveralls.io/github/jonatasbaldin/s3-environ?branch=master)
 
 Load environment variables from a AWS S3 file! This initial version supports only JSON files.
 
