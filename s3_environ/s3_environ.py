@@ -43,7 +43,7 @@ class S3Environ(object):
             raise
 
         try:
-            obj_content = json.loads(obj)
+            obj_content = json.loads(obj.decode('utf-8'))
         except ValueError:
             print('The file is not JSON valid.')
             raise

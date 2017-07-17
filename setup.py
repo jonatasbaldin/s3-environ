@@ -21,5 +21,5 @@ setup(
     install_requires=['boto3'],
     name='s3-environ',
     packages=find_packages(),
-    version='0.0.4'
+    version='0.0.5'
 )
